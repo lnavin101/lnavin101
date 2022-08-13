@@ -24,7 +24,9 @@
 
 <br clear="right"/>
 
+<!--
 <p><img src="https://github-readme-stats.vercel.app/api?username=lnavin101&show_icons=true&locale=en" alt="lnavin101" /></p>
+-->
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lnavin101&" alt="lnavin101" /></p>
 
