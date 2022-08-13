@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Navin Letchumanan</h1>
 <h3 align="left">A passionate full stack developer</h3>
 
-<a href="https://app.daily.dev/lnavin101"><img align="right" src="https://github.com/lnavin101/lnavin101/blob/600813e62345e132eb825260caf50a14bec8e5ab/devcard.svg" width="250" alt="Navin Letchumanan's Dev Card"/></a>
+<a href="https://app.daily.dev/lnavin101"><img align="right" src="./devcard.svg" width="250" alt="Navin Letchumanan's Dev Card"/></a>
 
 <br clear="left"/>
 
