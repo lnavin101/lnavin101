@@ -5,8 +5,6 @@
 
 <br clear="left"/>
 
-- 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 All of my projects are available at [https://lnavin101.github.io/my-portfolio/](https://lnavin101.github.io/my-portfolio/)
 
 - 📝 I regularly write articles on [https://navin101.hashnode.dev/](https://navin101.hashnode.dev/)
